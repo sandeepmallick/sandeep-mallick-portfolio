@@ -134,6 +134,15 @@ export const Navbar = () => {
                 </a>
 
               <a
+                href="https://tryhackme.com/p/ZTEX"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block px-4 py-2 hover:bg-red-700 transition"
+              >
+                THM
+              </a>
+              
+              <a
                 href="https://open.spotify.com/playlist/3KUE9F8AVUfGRdEn70TeYn"
                 target="_blank"
                 rel="noopener noreferrer"
