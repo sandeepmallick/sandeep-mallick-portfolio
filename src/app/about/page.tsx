@@ -16,8 +16,9 @@ export default function AboutPage() {
         </h2>
 
         
-<p className="mb-6 text-lg text-muted-foreground">
-{/*           I&apos;m Cyber Security Enthusiast{" "}
+{/* 
+       <p className="mb-6 text-lg text-muted-foreground">
+          I&apos;m Cyber Security Enthusiast{" "}
           <span className="text-red-500 font-medium">
             code, tech, and design
           </span>
@@ -43,7 +44,8 @@ export default function AboutPage() {
           I&apos;m that guy who mixes{" "}
           <span className="italic">markets + models + mobile apps</span>. If
           it&apos;s fast, useful, and minimal—I&apos;m building it.
-        </p> */}
+        </p> 
+*/}
       </motion.section>
     </main>
   );
