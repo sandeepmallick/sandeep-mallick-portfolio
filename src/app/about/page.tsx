@@ -15,15 +15,13 @@ export default function AboutPage() {
         </h2>
 
         
-{/*         <p className="mb-6 text-lg text-muted-foreground">
-          I&apos;m a full-stack developer, quant geek, and a soon-to-be ML wizard.
-          Currently pursuing my MCA while building real-world projects that
-          blend{" "}
+<p className="mb-6 text-lg text-muted-foreground">
+          I&apos;m Cyber Security Enthusiast{" "}
           <span className="text-red-500 font-medium">
-            finance, tech, and design
+            code, tech, and design
           </span>
-          .
-        </p>
+          
+   {/*              </p>
         <p className="mb-6 text-lg text-muted-foreground">
           I&apos;ve shipped products in <span className="font-medium">web dev</span>{" "}
           (MERN),
