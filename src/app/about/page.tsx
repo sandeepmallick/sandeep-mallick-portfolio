@@ -21,7 +21,7 @@ export default function AboutPage() {
             code, tech, and design
           </span>
           
-   {/*              </p>
+          </p>
         <p className="mb-6 text-lg text-muted-foreground">
           I&apos;ve shipped products in <span className="font-medium">web dev</span>{" "}
           (MERN),
@@ -42,7 +42,7 @@ export default function AboutPage() {
           I&apos;m that guy who mixes{" "}
           <span className="italic">markets + models + mobile apps</span>. If
           it&apos;s fast, useful, and minimal—I&apos;m building it.
-        </p> */}
+        </p>
       </motion.section>
     </main>
   );
