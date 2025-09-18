@@ -29,3 +29,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel and netifly 
 - https://sandeep-mallick.vercel.app/
+- https://sandeep-mallick.netlify.app/
+
