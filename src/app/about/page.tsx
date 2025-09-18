@@ -12,9 +12,10 @@ export default function AboutPage() {
       >
         <h2 className="text-3xl sm:text-4xl font-bold mb-6">
           Sandeep AKA बपुनि
-        
         </h2>
-        <p className="mb-6 text-lg text-muted-foreground">
+
+        
+{/*         <p className="mb-6 text-lg text-muted-foreground">
           I&apos;m a full-stack developer, quant geek, and a soon-to-be ML wizard.
           Currently pursuing my MCA while building real-world projects that
           blend{" "}
@@ -43,7 +44,7 @@ export default function AboutPage() {
           I&apos;m that guy who mixes{" "}
           <span className="italic">markets + models + mobile apps</span>. If
           it&apos;s fast, useful, and minimal—I&apos;m building it.
-        </p>
+        </p> */}
       </motion.section>
     </main>
   );
