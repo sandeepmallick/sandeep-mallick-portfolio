@@ -136,6 +136,24 @@ export const Navbar = () => {
                 </a>
               
                 <a
+                  href="https://t.me/+P2vEI4SrOpxiNTU1"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block px-4 py-2 hover:bg-red-700 transition"
+                >
+                  Telegram
+                </a>
+              
+                <a
+                  href="https://www.reddit.com/user/sandeep2574/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block px-4 py-2 hover:bg-red-700 transition"
+                >
+                  Reddit
+                </a>
+              
+                <a
                   href="https://discord.com/channels/@me/"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -144,14 +162,6 @@ export const Navbar = () => {
                   Discord
                 </a>
               
-                <a
-                  href="https://t.me/+P2vEI4SrOpxiNTU1"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="block px-4 py-2 hover:bg-red-700 transition"
-                >
-                  Telegram
-                </a>
 
               <a
                 href="https://tryhackme.com/p/ZTEX"
