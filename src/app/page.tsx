@@ -75,7 +75,7 @@ export default function Home() {
           </span>
         </h2>
         <p className="text-lg sm:text-xl text-muted-foreground mb-6">
-          A tech nerd who loves to explore new things an have a urge to know about everthing i love to solve  problems  with code Currently exploring the fields of <strong>cyber security</strong> , <strong>automation</strong>, <strong>network security</strong> and <strong>AGI</strong>. 
+          A tech enthusiast with an insatiable curiosity to explore new things and a passion for solving problems through code Currently exploring the fields of <strong>cyber security</strong> , <strong>automation</strong>, <strong>network security</strong> and <strong>AGI</strong>. 
         </p>
 
         <MotionLink
