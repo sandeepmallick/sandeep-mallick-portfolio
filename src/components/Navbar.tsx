@@ -107,6 +107,7 @@ export const Navbar = () => {
               >
                 Facebook
               </a>
+              
               <a
                 href="https://www.instagram.com/hannsandeep/"
                 target="_blank"
@@ -117,6 +118,15 @@ export const Navbar = () => {
               </a>
               
                 <a
+                  href="https://www.snapchat.com/add/sandeepdope25?share_id=J6JGMuhl4eA&locale=en-US "
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block px-4 py-2 hover:bg-red-700 transition"
+                >
+                  Sanpchat
+                </a>
+              
+                <a
                   href="https://discord.com/channels/@me/"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -124,6 +134,7 @@ export const Navbar = () => {
                 >
                   Discord
                 </a>
+              
                 <a
                   href="https://t.me/+P2vEI4SrOpxiNTU1"
                   target="_blank"
