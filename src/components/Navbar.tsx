@@ -117,6 +117,15 @@ export const Navbar = () => {
                 Instagram
               </a>
               
+              <a
+                href="https://www.threads.com/@sandeep_dxpe25"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block px-4 py-2 hover:bg-red-700 transition"
+              >
+                Threads
+              </a>
+              
                 <a
                   href="https://www.snapchat.com/add/sandeepdope25?share_id=J6JGMuhl4eA&locale=en-US "
                   target="_blank"
