@@ -80,7 +80,7 @@ export default function Home() {
 
         <MotionLink
           whileTap={{ scale: 0.9 }}
-           href="/about" 
+           href="https://sandeepmallick.github.io/Education-and-Certifications/" 
           className="inline-block bg-transparent border border-red-500 text-red-500 hover:bg-red-500 hover:text-white font-semibold text-sm rounded-xl px-5 py-2 transition"
         >
           More about me
